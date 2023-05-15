@@ -1,4 +1,4 @@
-#SIMPLE SENTIENT TEXT ANALYSIS IN PYTHON
+#SIMPLE SENTIMENT TEXT ANALYSIS IN PYTHON
 
 from textblob import TextBlob
 from newspaper import Article
